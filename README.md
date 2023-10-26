@@ -1,6 +1,23 @@
 # ikan_app
 
-A new Flutter project.
+Responsi 1 Pemrograman Mobile
+
+## dokumentasi
+
+# Create
+![alt text](https://github.com/Daffakhaironkhan/responsi-1-mobile/blob/main/screenshots/create.png?raw=true)
+
+# List Ikan
+![alt text](https://github.com/Daffakhaironkhan/responsi-1-mobile/blob/main/screenshots/view.png?raw=true)
+
+# Detail
+![alt text](https://github.com/Daffakhaironkhan/responsi-1-mobile/blob/main/screenshots/detail.png?raw=true)
+
+# Update
+![alt text](https://github.com/Daffakhaironkhan/responsi-1-mobile/blob/main/screenshots/update.png?raw=true)
+
+# Delete
+![alt text](https://github.com/Daffakhaironkhan/responsi-1-mobile/blob/main/screenshots/delete.png?raw=true)
 
 ## Getting Started
 
